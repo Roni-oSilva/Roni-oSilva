@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+mundo!+Eu+sou+o+Ronilson;Controladoria+%C2%B7+Dados+%C2%B7+Automa%C3%A7%C3%A3o;Criador+da+CARVEX" alt="Olá, mundo! Eu sou o Ronilson" />
 
-📍 Marabá – PA, Brasil
+Marabá – PA, Brasil
 
 <a href="https://carvex-one.vercel.app"><img src="https://img.shields.io/badge/CARVEX-0868F7?style=for-the-badge&logoColor=white" alt="CARVEX" /></a>
 <a href="https://github.com/Roni-oSilva"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -11,13 +11,13 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 - Trabalho com **controladoria, análise de dados e automação**
 - Crio relatórios e indicadores no **Power BI** e automações com **Power Automate**
 - Desenvolvo sites e sistemas pela **[CARVEX](https://carvex-one.vercel.app)** — *Technology, refined.*
 
-### 🧰 Tecnologias
+### Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,vercel,git,github&perline=11" alt="Tecnologias" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logoColor=white" alt="Claude Code" />
 </p>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Roni-oSilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
@@ -41,13 +41,13 @@
   <img src="https://streak-stats.demolab.com?user=Roni-oSilva&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
-### 🏙️ Meu ano em 3D
+### Meu ano em 3D
 
 <p align="center">
   <img src="assets/skyline.gif" width="760" alt="Contribuições do último ano em 3D" />
 </p>
 
-### 🚀 Projetos
+### Projetos
 
 | Projeto | O que faz |
 |---|---|
